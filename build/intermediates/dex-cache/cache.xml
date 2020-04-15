@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Androidstudio\Android_sdk_install\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-8ab16fde011e44f5bc816670abd64f30bc96c9ea.jar" />
+    </item>
+    <item
+        jar="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\pre-dexed\debug\classes-6b612a26e12621a1f17049a04f276e5c43356c80.jar" />
+    </item>
+    <item
+        jar="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ac81d0ef46c8e0da8580c444ef6eea81170e155c.jar" />
+    </item>
+    <item
+        jar="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\pre-dexed\debug\classes-6d797c128fe05e87ff104d0a1078745cb1ffd558.jar" />
+    </item>
+    <item
+        jar="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Androidstudio\androidstudioProjects\MyApplication12\app\build\intermediates\pre-dexed\debug\classes-af09779d598917366815f0137ac3b3614309a3cc.jar" />
+    </item>
+
+</items>
