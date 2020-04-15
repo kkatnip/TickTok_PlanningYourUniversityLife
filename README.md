@@ -1,5 +1,7 @@
-# TikTok_PlanningYourLifeinUniversity
+# TikTok: Planning Your University Life 
+
 My Year 1 student project in the Harbin Institute of Technology
+
 This project is based on Android Studio.
 
 
