@@ -1,6 +1,6 @@
 # TickTok: Planning Your University Life 
 
-My Year 1 student project in the Harbin Institute of Technology
+my Year 1 Student Project in the Harbin Institute of Technology
 
 This project was coded and tested based on Android Studio.
 
